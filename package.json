@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kittinske15/data-visualization-project/issues"
   },
-  "homepage": "https://github.com/Kittinske15/data-visualization-project#readme"
+  "homepage": "https://github.com/Kittinske15/data-visualization-project#readme",
+  "dependencies": {
+    "xlsx": "^0.16.2"
+  }
 }
